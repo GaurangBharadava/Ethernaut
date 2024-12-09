@@ -23,3 +23,9 @@ This project or repo includes all the Ethernaut solution challenges solved by me
 
 6. Delegation:
 -Tn this challenge i have to take over ownership of a contract by delegate call to another contract function that change the ownership of the contract. i have delegated the contract function and gained acces to the contract.
+
+7. Force:
+-In this challenge an empty contract is given to me. i have increase its balance greter then zero. For that i have used selfdestruct concept to colve this challenge.
+
+8. Vault:
+-In this challenge the vault contract has given in which the password has stored and locked. i have to unlock the vault in this challenge. For solve the challenge i read the storage slots of blockchain and retrive the password and unlocked the vault.
