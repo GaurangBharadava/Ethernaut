@@ -29,3 +29,9 @@ This project or repo includes all the Ethernaut solution challenges solved by me
 
 8. Vault:
 -In this challenge the vault contract has given in which the password has stored and locked. i have to unlock the vault in this challenge. For solve the challenge i read the storage slots of blockchain and retrive the password and unlocked the vault.
+
+9. King:
+-The idea of the game is to take king position in given contract by sending more amount then prize. after getting king position no one should not take position of king. for that i have developed script.
+
+10. Reentrancy:
+-In this challenge i have to drain all the funds of the given contract by developing script.
