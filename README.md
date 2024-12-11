@@ -1,4 +1,4 @@
-This project or repo includes all the Ethernaut solution challenges solved by me using foundry framework.
+This project or repo includes all the Ethernaut challenges solved by me using foundry framework.
 
 **Note:** In this solution challenge i am not testing the contract but you will see the test file. it is require to commit into the git. Therefore donot take it seriously. If you want to test contract then you are free to do so.
 
@@ -35,3 +35,9 @@ This project or repo includes all the Ethernaut solution challenges solved by me
 
 10. Reentrancy:
 -In this challenge i have to drain all the funds of the given contract by developing script.
+
+11. Elevator:
+-In this challenge the invarient is the lift will not let you to go to top floor. To go to top floor i have made a script to reach there by implementing another contract to chack the weather it is last floor or not.
+
+12. Privacy:
+-In this challenge i have to unloack the  functionality of the contract, for that i have to read data from the blockchain and boom you know that we can read data from the blockchain and etc. So i used that property.
