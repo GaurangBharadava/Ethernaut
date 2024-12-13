@@ -41,3 +41,9 @@ This project or repo includes all the Ethernaut challenges solved by me using fo
 
 12. Privacy:
 -In this challenge i have to unloack the  functionality of the contract, for that i have to read data from the blockchain and boom you know that we can read data from the blockchain and etc. So i used that property.
+
+13. GatekeeperOne:
+-In this challange also i have to gain access or you can say i have to enter in conrtact. But the funds was such diffrent for that. I have to perfomt many checks and do some mathematics to creck the logic.
+
+14. GatekeeperTwo:
+-It is simmiler to GatekeeperTwo, but the logic was diffrent.
