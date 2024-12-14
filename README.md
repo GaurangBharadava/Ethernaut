@@ -47,3 +47,9 @@ This project or repo includes all the Ethernaut challenges solved by me using fo
 
 14. GatekeeperTwo:
 -It is simmiler to GatekeeperTwo, but the logic was diffrent.
+
+15. NaughtCoin:
+-In this challenge i have to bypass the timelock and spend my all the balance by sending it to anyone. I have solved this challange in RemixIDE You can solve it by your enviroment.
+
+16. Preservation:
+-In this challenge i have to take ownership by low level delegatecall. i have developed scriot for that.
