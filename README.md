@@ -55,3 +55,7 @@ This project or repo includes all the Ethernaut challenges solved by me using fo
 -In this challenge i have to take ownership by low level delegatecall. i have developed scriot for that.
 
 17. In this challenge i have to destroy the contract and get my ETH back. Although the deployer is not aware about the contract actual address so we have to first find that address and then we will able to destroy the contract. 
+
+20. In this solution i have developed the script for denial of withdrawing funds to the owner.
+
+21. In this challenge i have to set price less than the default price.
